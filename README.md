@@ -73,4 +73,4 @@ We welcome contributions from anyone who is interested in improving the applicat
 
 ## License
 
-This application is licensed under the MIT License. See the LICENSE file for more information.
+This application is licensed under the ISC License. See the LICENSE file for more information.
