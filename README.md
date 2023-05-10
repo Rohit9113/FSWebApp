@@ -41,6 +41,26 @@ To deploy the application to Rander, follow these steps:
 6. write Build Command 'npm install'
 7. write Build Command 'nodemon server.js'
 
+## Project ScreenShots
+1. UI
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/26e73d06-4a73-462d-8833-64867979369a)
+2. Upload File
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/97cf5427-0780-4d30-939b-7c2aa9b9c429)
+3. If type incorrect password and download
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/f37d119b-7fe2-404c-bfef-6da713d89015)
+
+4. Download with correct password
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/d04026f8-c953-4554-8cad-944fcb480aaf)
+5. Store in project directory and print console
+
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/447fd347-2fde-4192-8442-2dfc1ed5dd4e)
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/4d7e41b4-d6a1-4ff6-b1b8-5c15e68bba87)
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/bf2df942-6c05-43e1-ada0-e02080491ca1)
+6. Store in MongoDb Database 
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/1bead1f6-419f-4c58-ac6d-683c9404afda)
+
+
+
 ## Contributing
 
 We welcome contributions from anyone who is interested in improving the application! To contribute, follow these steps:
