@@ -33,4 +33,22 @@ To deploy the application to Rander, follow these steps:
 
 1. Clone the repository to your local machine
 2. Choose web services
-3. 
+3. Write the project URL on Rander's Public Git Repository
+4. Set the branch
+5. write the Root Directory '.'
+6. write Build Command 'npm install'
+7. write Build Command 'nodemon server.js'
+
+## Contributing
+
+We welcome contributions from anyone who is interested in improving the application! To contribute, follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your changes
+3. Make your changes and commit them
+4. Push your changes to your forked repository
+5. Submit a pull request to the main repository
+
+##License
+
+This application is licensed under the MIT License. See the LICENSE file for more information.
