@@ -43,14 +43,14 @@ To deploy the application to Rander, follow these steps:
 
 ## Project ScreenShots
 1. UI
-![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/26e73d06-4a73-462d-8833-64867979369a)
-2. Upload File
-![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/97cf5427-0780-4d30-939b-7c2aa9b9c429)
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/452de32b-8ec6-4ed7-8bf6-07fb211d3db8)
+2. URL Genrated
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/5d3a7626-acfe-44e9-972b-2f3d3c370483)
 3. If type incorrect password and download
-![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/f37d119b-7fe2-404c-bfef-6da713d89015)
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/480817c7-09d7-475e-b6a1-f06f0bbfa4fb)
 
 4. Download with correct password
-![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/d04026f8-c953-4554-8cad-944fcb480aaf)
+![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/bab8b368-0a6d-46d7-9cc2-ff1942d125bf)
 5. Store in project directory and print console
 
 ![image](https://github.com/Rohit9113/FSWebApp/assets/78945252/447fd347-2fde-4192-8442-2dfc1ed5dd4e)
